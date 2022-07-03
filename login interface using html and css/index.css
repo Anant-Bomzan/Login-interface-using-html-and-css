@@ -58,5 +58,9 @@ header h1{
     width: 80%;
     margin: 8px 48px;
     padding: 10px;
-    box-shadow: 30px;
+}
+.btn:hover{
+    color: white;
+    background-color: rgb(255, 95, 95);
+
 }
